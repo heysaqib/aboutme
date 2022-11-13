@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saqib Shaikh
-- 👀 I’m interested in Python, Web Development, C, C++, Java and more
+- 👀 I am pursuing B.E in ECE domain and interested in Python, Web Development, C, C++, Java and more
 - 🌱 I’m currently learning Data Analytics
 - 📫 Reach me at saqibshaikh861@gmail.com
 
